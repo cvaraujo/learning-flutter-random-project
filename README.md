@@ -1,6 +1,6 @@
-# first_app
+# Score App
 
-A new Flutter project.
+A new Flutter app that compute scores based on your choices.
 
 ## Getting Started
 
